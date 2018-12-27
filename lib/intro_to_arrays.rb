@@ -5,3 +5,9 @@ end
 def array_with_two_elements
   new_array = ["cobra", "viper"]
 end
+
+def #first_element
+
+end
+
+def 
